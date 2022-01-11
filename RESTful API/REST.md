@@ -5,7 +5,10 @@ là một kiểu **kiến trúc**
 là **quy tắc** mà 1 ứng dụng hay 1 thành phần sẽ tương tác với 1 ứng dụng hay thành phần khác
 
 ### RESTful API 
-là một **tiêu chuẩn thiết kế API**
+là một **tiêu chuẩn thiết kế API** theo chuẩn RESTful
+- 200 OK – Trả về thành công cho những phương thức GET, PUT, PATCH hoặc DELETE.
+- 400 Bad Request – Request không hợp lệ
+- 401 Unauthorized – Request cần có autho
 
 ----
 #### Mục đích sử dụng 
