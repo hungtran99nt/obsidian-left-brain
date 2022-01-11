@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "71cd62338afa88fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb5e4c7b7260727f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e17b7c16c9e6ba84",
+    "type": "split",
+    "children": [
+      {
+        "id": "16991673f170b25d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6060e9477ccad11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7378f869fb588107",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48275f1f5a929694",
+    "type": "split",
+    "children": [
+      {
+        "id": "7662ac04725f7445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dea9ccc189b8d46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e2f249bc82689c13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2c9409ea7b2e614",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e327a230848bcd16",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fb5e4c7b7260727f",
+  "lastOpenFiles": [
+    "RESTful API/REST.md",
+    "Java/Spring/Dependency Injection.md",
+    "Java/Spring/IoC.md",
+    "Java/AOP.md",
+    "Java/AOP.png",
+    "^b34317.md",
+    "Java/Spring/Spring Framework.md",
+    "Java/Registration Method.png",
+    "Java/JMX.md",
+    "Java/EJB.md"
+  ]
+}
