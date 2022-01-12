@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Spring/IoC.md",
+            "file": "Java/Spring/Beans.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/IoC.md",
+                "file": "Java/Spring/Beans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/IoC.md",
+                "file": "Java/Spring/Beans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +121,15 @@
   },
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
-    "Java/Spring/IoC.md",
     "Java/Spring/Beans.md",
+    "Java/Spring/@Autorwired.md",
+    "Java/Spring/IoC.md",
     "Java/Spring/Dependency Injection.md",
     "Java/Spring/ApplicationContext.md",
     "Java/Spring/Spring Framework.md",
     "RESTful API/REST.md",
     "Java/AOP.md",
     "Java/AOP.png",
-    "^b34317.md",
-    "Java/Registration Method.png"
+    "^b34317.md"
   ]
 }
