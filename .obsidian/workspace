@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5e4c7b7260727f",
+        "id": "ad40201db8cc0fb7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Java/Spring/Beans.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Spring/Beans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Spring/Beans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,19 +116,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "fb5e4c7b7260727f",
+  "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
-    "RESTful API/REST.md",
+    "Java/Spring/Beans.md",
     "Java/Spring/Dependency Injection.md",
     "Java/Spring/IoC.md",
+    "Java/Spring/ApplicationContext.md",
+    "Java/Spring/Spring Framework.md",
+    "RESTful API/REST.md",
     "Java/AOP.md",
     "Java/AOP.png",
     "^b34317.md",
-    "Java/Spring/Spring Framework.md",
-    "Java/Registration Method.png",
-    "Java/JMX.md",
-    "Java/EJB.md"
+    "Java/Registration Method.png"
   ]
 }
