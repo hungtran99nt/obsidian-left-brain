@@ -7,12 +7,8 @@
         "id": "ad40201db8cc0fb7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Java/Spring/@Component@Service@Controller.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/@Component@Service@Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/@Component@Service@Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
