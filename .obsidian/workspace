@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Core/equals() và hashCode().md",
+            "file": "Java/Lombok/@EqualsAndHashCode.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Core/equals() và hashCode().md",
+                "file": "Java/Lombok/@EqualsAndHashCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Core/equals() và hashCode().md",
+                "file": "Java/Lombok/@EqualsAndHashCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,11 +121,11 @@
   },
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
+    "Java/Lombok/@EqualsAndHashCode.md",
     "Java/Core/equals() và hashCode().md",
     "Interview Questions/Java Core.md",
     "Interview Questions/Spring.md",
     "Java/Core/Constructor.md",
-    "Java/Lombok/@EqualsAndHashCode.md",
     "Java/Lombok/Lombok.md",
     "Java/Lombok.md",
     "Java/Core/Transient.md",
