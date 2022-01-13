@@ -122,6 +122,7 @@
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
     "Java/Core/equals() và hashCode().md",
+    "Java/Core/Constructor.md",
     "Java/Lombok/@EqualsAndHashCode.md",
     "Java/Lombok/Lombok.md",
     "Java/Lombok.md",
@@ -129,7 +130,6 @@
     "Java/Core/Serialization.md",
     "Java/Spring/@Component@Service@Controller.md",
     "Java/Spring/Beans.md",
-    "Java/Spring/@Autorwired.md",
-    "Java/Spring/IoC.md"
+    "Java/Spring/@Autorwired.md"
   ]
 }
