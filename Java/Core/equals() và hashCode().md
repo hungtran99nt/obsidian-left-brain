@@ -1,3 +1,2 @@
-| Equals | HashCode |
-| ------ | -------- |
-|        |          |
+- Được định nghĩa 
+##### Equals
