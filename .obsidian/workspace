@@ -7,8 +7,12 @@
         "id": "ad40201db8cc0fb7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Java/Core/Transient.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Core/Transient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Core/Transient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,6 +121,8 @@
   },
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
+    "Java/Core/Transient.md",
+    "Java/Core/Serialization.md",
     "Java/Spring/@Component@Service@Controller.md",
     "Java/Spring/Beans.md",
     "Java/Spring/@Autorwired.md",
@@ -122,8 +130,6 @@
     "Java/Spring/Dependency Injection.md",
     "Java/Spring/ApplicationContext.md",
     "Java/Spring/Spring Framework.md",
-    "RESTful API/REST.md",
-    "Java/AOP.md",
-    "Java/AOP.png"
+    "RESTful API/REST.md"
   ]
 }
