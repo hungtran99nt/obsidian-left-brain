@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Core/Transient.md",
+            "file": "Java/Core/equals() và hashCode().md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Core/Transient.md",
+                "file": "Java/Core/equals() và hashCode().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Core/Transient.md",
+                "file": "Java/Core/equals() và hashCode().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +121,15 @@
   },
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
+    "Java/Core/equals() và hashCode().md",
+    "Java/Lombok/@EqualsAndHashCode.md",
+    "Java/Lombok/Lombok.md",
+    "Java/Lombok.md",
     "Java/Core/Transient.md",
     "Java/Core/Serialization.md",
     "Java/Spring/@Component@Service@Controller.md",
     "Java/Spring/Beans.md",
     "Java/Spring/@Autorwired.md",
-    "Java/Spring/IoC.md",
-    "Java/Spring/Dependency Injection.md",
-    "Java/Spring/ApplicationContext.md",
-    "Java/Spring/Spring Framework.md",
-    "RESTful API/REST.md"
+    "Java/Spring/IoC.md"
   ]
 }
