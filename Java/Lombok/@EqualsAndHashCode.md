@@ -111,9 +111,18 @@ Default callSupper
 Khi chú thích _@EqualsAndHashCode_ cho 1 class, **mặc định thuộc tính callSupper là FALSE**, hay class đó sẽ ==không gọi *equals()* và *hashCode()* ở supper class khi generate.==
 
 ###### Custom callSupper
-1. Case 1: 
-- Supper class **không override** equals() và hashCode().
+**1. Case 1:** 
+- Supper class **không override/override** equals() và hashCode().
 - callSupper = **FALSE**
 => *equals()* và *hashCode()* sẽ ==chỉ sử dụng các thuộc tính trong subclass==
- 
-3. Case 2
+**2. Case 2**
+- Supper class **không override** equals() và hashCode().
+- callSupper = **TRUE**
+=> *equals()* và *hashCode()* sẽ ==sử dụng các thuộc tính trong supper class==. 
+=> sử dụng *equals()* và *hashCode()* của supper class.
+=> instance của sub class sẽ luôn khác nhau.
+**3. Case 3**
+- Supper class **override** equals() và hashCode().
+- callSupper = **TRUE**
+=> *equals()* và *hashCode()* sẽ ==sử dụng các thuộc tính trong cả supper class và subclass==. 
+=> sử dụng *equals()* và *hashCode()* của supper class.
