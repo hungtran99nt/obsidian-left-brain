@@ -121,14 +121,14 @@
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
     "Java/Spring/Concept/Bad practice in Spring.md",
-    "Java/Spring/Untitled.md",
+    "Java/Spring/@Autorwired.md",
+    "Java/Spring/Dependency Injection.md",
+    "Java/Spring/IoC.md",
+    "Java/Spring/Spring Framework.md",
     "Interview Questions/Spring.md",
     "Interview Questions/Java Core.md",
-    "OOP/Tính trừu tượng - Abstraction.md",
-    "OOP/Tính đóng gói - Encapsulation.md",
-    "OOP/Tính kế thừa - Inheritance.md",
-    "OOP/Tính đa hình - Polymorphism.md",
-    "OOP/OOP.md",
-    "Oracle/Oracle Architechture.png"
+    "Java/Spring/Beans.md",
+    "Java/Spring/ApplicationContext.md",
+    "Java/Spring/Untitled.md"
   ]
 }
