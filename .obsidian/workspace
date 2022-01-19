@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OOP/Tính trừu tượng - Abstraction.md",
+            "file": "Java/Spring/Concept/Bad practice in Spring.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 196.5
   },
   "right": {
     "id": "48275f1f5a929694",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP/Tính trừu tượng - Abstraction.md",
+                "file": "Java/Spring/Concept/Bad practice in Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP/Tính trừu tượng - Abstraction.md",
+                "file": "Java/Spring/Concept/Bad practice in Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +120,15 @@
   },
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
+    "Java/Spring/Concept/Bad practice in Spring.md",
+    "Java/Spring/Untitled.md",
+    "Interview Questions/Spring.md",
+    "Interview Questions/Java Core.md",
     "OOP/Tính trừu tượng - Abstraction.md",
     "OOP/Tính đóng gói - Encapsulation.md",
     "OOP/Tính kế thừa - Inheritance.md",
     "OOP/Tính đa hình - Polymorphism.md",
     "OOP/OOP.md",
-    "Oracle/Oracle Architechture.png",
-    "Oracle/Kiến trúc (Architechture).md",
-    "Interview Questions/Spring.md",
-    "Java/Core/Interface.md",
-    "Java/Core/Lớp Abstract.md"
+    "Oracle/Oracle Architechture.png"
   ]
 }
