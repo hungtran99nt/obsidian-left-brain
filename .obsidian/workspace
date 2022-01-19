@@ -7,11 +7,9 @@
         "id": "ad40201db8cc0fb7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Interview Questions/Spring.md",
-            "mode": "source",
-            "source": false
+            "file": "Oracle/Oracle Architechture.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Questions/Spring.md",
+                "file": "Oracle/Oracle Architechture.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Questions/Spring.md",
+                "file": "Oracle/Oracle Architechture.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +118,8 @@
   },
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
+    "Oracle/Oracle Architechture.png",
+    "Oracle/Kiến trúc (Architechture).md",
     "Interview Questions/Spring.md",
     "Java/Core/Interface.md",
     "Java/Core/Lớp Abstract.md",
@@ -127,8 +127,6 @@
     "Java/Core/Serialization.md",
     "Java/Core/Transient.md",
     "Java/Spring/@RequestParam@PathVariable@ModelAttribute.md",
-    "RESTful API/REST.md",
-    "Java/Spring/@Autorwired.md",
-    "Java/Spring/Beans.md"
+    "RESTful API/REST.md"
   ]
 }
