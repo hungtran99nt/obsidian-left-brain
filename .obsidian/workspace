@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Spring/Dependency Injection.md",
+            "file": "Oracle/LIKE.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Dependency Injection.md",
+                "file": "Oracle/LIKE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Dependency Injection.md",
+                "file": "Oracle/LIKE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +120,7 @@
   },
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
+    "Oracle/LIKE.md",
     "Java/Spring/Dependency Injection.md",
     "Java/Spring/IoC.md",
     "Interview Questions/Java Core.md",
@@ -128,7 +129,6 @@
     "Java/Spring/ApplicationContext.md",
     "Java/Spring/@Component@Service@Controller.md",
     "Java/Spring/@Autorwired.md",
-    "Java/Spring/Concept/Bad practice in Spring.md",
-    "Java/Core/Overloading.md"
+    "Java/Spring/Concept/Bad practice in Spring.md"
   ]
 }
