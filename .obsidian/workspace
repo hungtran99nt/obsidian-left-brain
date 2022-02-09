@@ -7,11 +7,9 @@
         "id": "ad40201db8cc0fb7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Javascript/Template literal syntax.md",
-            "mode": "source",
-            "source": false
+            "file": "OOP/Pasted image 20220209094040.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Template literal syntax.md",
+                "file": "OOP/Pasted image 20220209094040.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Template literal syntax.md",
+                "file": "OOP/Pasted image 20220209094040.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +118,15 @@
   },
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
+    "OOP/Pasted image 20220209094040.png",
+    "Javascript/Strict mode.md",
     "Javascript/Template literal syntax.md",
+    "Strict_mode_error.png.md",
     "Interview Questions/Java Core.md",
     "Oracle/PL-SQL.md",
     "Oracle/LIKE.md",
     "Java/Spring/Dependency Injection.md",
     "Java/Spring/IoC.md",
-    "Java/Spring/Spring Framework.md",
-    "Java/Spring/@RequestParam@PathVariable@ModelAttribute.md",
-    "Java/Spring/ApplicationContext.md",
-    "Java/Spring/@Component@Service@Controller.md"
+    "Java/Spring/Spring Framework.md"
   ]
 }
