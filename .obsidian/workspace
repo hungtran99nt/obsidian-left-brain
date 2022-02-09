@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Strict mode.md",
+            "file": "Javascript/Function declaration & Function expression.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Strict mode.md",
+                "file": "Javascript/Function declaration & Function expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Strict mode.md",
+                "file": "Javascript/Function declaration & Function expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +120,8 @@
   },
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
+    "Javascript/Function declaration & Function expression.md",
+    "Javascript/Hoisting.md",
     "Javascript/Strict mode.md",
     "Oracle/PL2.png",
     "Oracle/PL3.png",
@@ -127,8 +129,6 @@
     "Oracle/PL1.png",
     "Javascript/ReferenceError.png",
     "Javascript/Template literal syntax.md",
-    "Strict_mode_error.png.md",
-    "Interview Questions/Java Core.md",
-    "Oracle/PL-SQL.md"
+    "Strict_mode_error.png.md"
   ]
 }
