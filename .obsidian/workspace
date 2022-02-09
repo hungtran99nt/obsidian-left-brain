@@ -7,8 +7,12 @@
         "id": "ad40201db8cc0fb7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/Template literal syntax.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Template literal syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/Template literal syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,6 +120,7 @@
   },
   "active": "ad40201db8cc0fb7",
   "lastOpenFiles": [
+    "Javascript/Template literal syntax.md",
     "Interview Questions/Java Core.md",
     "Oracle/PL-SQL.md",
     "Oracle/LIKE.md",
@@ -122,7 +129,6 @@
     "Java/Spring/Spring Framework.md",
     "Java/Spring/@RequestParam@PathVariable@ModelAttribute.md",
     "Java/Spring/ApplicationContext.md",
-    "Java/Spring/@Component@Service@Controller.md",
-    "Java/Spring/@Autorwired.md"
+    "Java/Spring/@Component@Service@Controller.md"
   ]
 }
