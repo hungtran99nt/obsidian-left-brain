@@ -2,7 +2,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "trashOption": "local",
-  "attachmentFolderPath": "OOP",
+  "attachmentFolderPath": "./",
   "promptDelete": false,
   "alwaysUpdateLinks": true
 }

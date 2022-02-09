@@ -1,1 +1,2 @@
-![[Pasted image 20220209094040.png]]
+![[ReferenceError.png]]
+![[SyntaxError.png]]
