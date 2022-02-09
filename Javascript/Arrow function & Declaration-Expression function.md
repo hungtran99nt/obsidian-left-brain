@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/34361379/are-arrow-functions-and-functions-equivalent-interchangeable

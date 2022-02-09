@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Function declaration & Function expression.md",
+            "file": "Javascript/Arrow function & Declaration-Expression function.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Function declaration & Function expression.md",
+                "file": "Javascript/Arrow function & Declaration-Expression function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Function declaration & Function expression.md",
+                "file": "Javascript/Arrow function & Declaration-Expression function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +120,7 @@
   },
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
+    "Javascript/Arrow function & Declaration-Expression function.md",
     "Javascript/Function declaration & Function expression.md",
     "Javascript/Hoisting.md",
     "Javascript/Strict mode.md",
@@ -128,7 +129,6 @@
     "Oracle/PL4.png",
     "Oracle/PL1.png",
     "Javascript/ReferenceError.png",
-    "Javascript/Template literal syntax.md",
-    "Strict_mode_error.png.md"
+    "Javascript/Template literal syntax.md"
   ]
 }
