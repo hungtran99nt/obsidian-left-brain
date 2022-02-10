@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Arrow function & Declaration-Expression function.md",
+            "file": "Javascript/Definition.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Arrow function & Declaration-Expression function.md",
+                "file": "Javascript/Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Arrow function & Declaration-Expression function.md",
+                "file": "Javascript/Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +120,7 @@
   },
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
+    "Javascript/Definition.md",
     "Javascript/Arrow function & Declaration-Expression function.md",
     "Javascript/Function declaration & Function expression.md",
     "Javascript/Hoisting.md",
@@ -128,7 +129,6 @@
     "Oracle/PL3.png",
     "Oracle/PL4.png",
     "Oracle/PL1.png",
-    "Javascript/ReferenceError.png",
-    "Javascript/Template literal syntax.md"
+    "Javascript/ReferenceError.png"
   ]
 }
