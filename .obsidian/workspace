@@ -7,9 +7,11 @@
         "id": "a4bf9459a9f9be92",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Javascript/Shallow copy.png"
+            "file": "Javascript/Nullish.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Shallow copy.png",
+                "file": "Javascript/Nullish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Shallow copy.png",
+                "file": "Javascript/Nullish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +120,7 @@
   },
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
+    "Javascript/Nullish.md",
     "Javascript/Shallow copy.png",
     "Javascript/Shallow copy.png",
     "Javascript/Shallow copy & Deep clone.md",
@@ -126,7 +129,6 @@
     "Javascript/Primitive-Reference type.png",
     "Javascript/JS Engine.png",
     "Javascript/Runtime on the browser.png",
-    "Javascript/THIS keyword.png",
-    "Javascript/THIS keyword.md"
+    "Javascript/THIS keyword.png"
   ]
 }
