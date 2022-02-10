@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Definition.md",
+            "file": "Javascript/Execution context.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Definition.md",
+                "file": "Javascript/Execution context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Definition.md",
+                "file": "Javascript/Execution context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +120,7 @@
   },
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
+    "Javascript/Execution context.md",
     "Javascript/Definition.md",
     "Javascript/Arrow function & Declaration-Expression function.md",
     "Javascript/Compilation & Interpretion.md",
@@ -128,7 +129,6 @@
     "Javascript/JS Engine.png",
     "Javascript/How JS run.png",
     "Javascript/Hoisting.md",
-    "Javascript/Strict mode.md",
-    "Oracle/PL2.png"
+    "Javascript/Strict mode.md"
   ]
 }
