@@ -13,5 +13,6 @@ We can pass function in to other functions and return it from functions.
 #### SINGLE THREAD
 #### NON-BLOCKING EVENT LOOP
 ![[Concurrency model.png]]
+![[Runtime on the browser.png]]
 
 ![[JS Engine.png]]
