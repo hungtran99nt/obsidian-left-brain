@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Function declaration & Function expression.md",
+            "file": "Javascript/Hoisting & the TDZ.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Function declaration & Function expression.md",
+                "file": "Javascript/Hoisting & the TDZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Function declaration & Function expression.md",
+                "file": "Javascript/Hoisting & the TDZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,8 +120,8 @@
   },
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
-    "Javascript/Function declaration & Function expression.md",
     "Javascript/Hoisting & the TDZ.md",
+    "Javascript/Function declaration & Function expression.md",
     "Javascript/Scope.md",
     "Javascript/Runtime on the browser.png",
     "Javascript/Definition.md",
