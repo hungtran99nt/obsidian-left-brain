@@ -6,3 +6,7 @@ JS automatically removes old, unused objects
 1. Procedural programming
 2. OOP
 3. Functional programming 
+#### PROTOTYPE-BASED OBJECT-ORIENTED
+#### FIRST-CLASS FUNCTIONS
+**Functions** treated as **variables**.
+We can pass function in to other functions and return it from functions.
