@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Hoisting & the TDZ.md",
+            "file": "Javascript/THIS keyword.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Hoisting & the TDZ.md",
+                "file": "Javascript/THIS keyword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Hoisting & the TDZ.md",
+                "file": "Javascript/THIS keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +120,7 @@
   },
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
+    "Javascript/THIS keyword.md",
     "Javascript/Hoisting & the TDZ.md",
     "Javascript/Function declaration & Function expression.md",
     "Javascript/Scope.md",
@@ -128,7 +129,6 @@
     "Javascript/Execution context.md",
     "Javascript/Arrow function & Declaration-Expression function.md",
     "Javascript/Compilation & Interpretion.md",
-    "Javascript/Concurrency model.png",
-    "Javascript/JS Engine.png"
+    "Javascript/Concurrency model.png"
   ]
 }
