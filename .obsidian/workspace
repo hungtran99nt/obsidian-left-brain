@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Execution context.md",
+            "file": "Javascript/Function declaration & Function expression.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Execution context.md",
+                "file": "Javascript/Function declaration & Function expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Execution context.md",
+                "file": "Javascript/Function declaration & Function expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +120,15 @@
   },
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
-    "Javascript/Execution context.md",
+    "Javascript/Function declaration & Function expression.md",
+    "Javascript/Hoisting & the TDZ.md",
+    "Javascript/Scope.md",
+    "Javascript/Runtime on the browser.png",
     "Javascript/Definition.md",
+    "Javascript/Execution context.md",
     "Javascript/Arrow function & Declaration-Expression function.md",
     "Javascript/Compilation & Interpretion.md",
     "Javascript/Concurrency model.png",
-    "Javascript/Function declaration & Function expression.md",
-    "Javascript/JS Engine.png",
-    "Javascript/How JS run.png",
-    "Javascript/Hoisting.md",
-    "Javascript/Strict mode.md"
+    "Javascript/JS Engine.png"
   ]
 }
