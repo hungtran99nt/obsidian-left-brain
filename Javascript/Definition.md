@@ -10,3 +10,8 @@ JS automatically removes old, unused objects
 #### FIRST-CLASS FUNCTIONS
 **Functions** treated as **variables**.
 We can pass function in to other functions and return it from functions.
+#### SINGLE THREAD
+#### NON-BLOCKING EVENT LOOP
+![[Concurrency model.png]]
+
+![[JS Engine.png]]
