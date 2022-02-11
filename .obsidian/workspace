@@ -121,8 +121,8 @@
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
     "Javascript/Asynchronous.md",
-    "Javascript/Concurrency.md",
     "Javascript/Promises.md",
+    "Javascript/Concurrency.md",
     "Javascript/Nullish.md",
     "Javascript/Shallow copy.png",
     "Javascript/Shallow copy.png",
