@@ -1,0 +1,3 @@
+- handle exception
+- avoid bad practice and messy code
+- make code reasonable and easy to read
