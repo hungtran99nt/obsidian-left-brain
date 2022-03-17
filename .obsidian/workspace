@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript/Asynchronous.md",
+            "file": "VueJS/Watchers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Asynchronous.md",
+                "file": "VueJS/Watchers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Asynchronous.md",
+                "file": "VueJS/Watchers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +120,7 @@
   },
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
+    "VueJS/Watchers.md",
     "Javascript/Asynchronous.md",
     "Javascript/Promises.md",
     "Javascript/Concurrency.md",
@@ -128,7 +129,6 @@
     "Javascript/Shallow copy.png",
     "Javascript/Shallow copy & Deep clone.md",
     "Javascript/Primitive type & Reference type.md",
-    "Javascript/Pasted image 20220210110654.png",
-    "Javascript/Primitive-Reference type.png"
+    "Javascript/Pasted image 20220210110654.png"
   ]
 }
