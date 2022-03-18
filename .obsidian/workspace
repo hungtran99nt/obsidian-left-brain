@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "VueJS/Watchers.md",
+            "file": "Oracle/SQL and PL-SQL.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VueJS/Watchers.md",
+                "file": "Oracle/SQL and PL-SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VueJS/Watchers.md",
+                "file": "Oracle/SQL and PL-SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +120,15 @@
   },
   "active": "a4bf9459a9f9be92",
   "lastOpenFiles": [
+    "Oracle/SQL and PL-SQL.md",
+    "Oracle/Cursor.md",
+    "Oracle/Kiến trúc (Architechture).md",
+    "Oracle/LIKE.md",
+    "Oracle/PL-SQL.md",
+    "Oracle/Oracle Architechture.png",
+    "Oracle/PL1.png",
     "VueJS/Watchers.md",
     "Javascript/Asynchronous.md",
-    "Javascript/Promises.md",
-    "Javascript/Concurrency.md",
-    "Javascript/Nullish.md",
-    "Javascript/Shallow copy.png",
-    "Javascript/Shallow copy.png",
-    "Javascript/Shallow copy & Deep clone.md",
-    "Javascript/Primitive type & Reference type.md",
-    "Javascript/Pasted image 20220210110654.png"
+    "Javascript/Promises.md"
   ]
 }
