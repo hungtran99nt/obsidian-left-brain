@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5e4c7b7260727f",
+        "id": "47eba421a8107374",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "VueJS/Watchers.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -39,7 +43,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288
+    "width": 300
   },
   "right": {
     "id": "534c860c8ceeb98e",
@@ -65,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "VueJS/Watchers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VueJS/Watchers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,17 +110,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb5e4c7b7260727f",
+  "active": "47eba421a8107374",
   "lastOpenFiles": [
-    "RESTful API/REST.md",
-    "Java/Spring/Dependency Injection.md",
-    "Java/Spring/IoC.md",
-    "Java/AOP.md",
-    "Java/AOP.png",
-    "^b34317.md",
-    "Java/Spring/Spring Framework.md",
-    "Java/Registration Method.png",
-    "Java/JMX.md",
-    "Java/EJB.md"
+    "VueJS/Watchers.md",
+    "conflict-files-obsidian-git.md",
+    "Algorithm/Generator Algorithm.md"
   ]
 }
