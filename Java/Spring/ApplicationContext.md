@@ -1,0 +1,1 @@
+- Là khái niệm mà [[Spring Boot]] dùng để chỉ Spring [[IoC]] container, tương tự như [[Beans]] là đại diện cho các dependency.
