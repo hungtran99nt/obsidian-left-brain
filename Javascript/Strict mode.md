@@ -1,0 +1,2 @@
+![[ReferenceError.png]]
+![[SyntaxError.png]]

@@ -1,0 +1,2 @@
+- Là **quá trình** chuyển 1 object sang dạng **Serial byte** khi truyền nó qua network.
+- Serial byte khi đến đích sẽ được chuyển lại thành object.
