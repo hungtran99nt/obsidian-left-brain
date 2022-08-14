@@ -19,8 +19,8 @@ Tổ hợp chập k của n
 **i = k**
 1. Duyệt ngược đến khi phần tử **A[i] != A[i - 1] + 1
 2. Duyệt xong, nếu **i == 1**
-	1. Duyệt xuôi từ **j = i + 1 --> k**
-	2. Set A[j] = A[i] + j - i
+	1. Duyệt ngược từ **j = k --> 1**
+	2. Set **A[j] = n - k + j**
 
 # Sinh hoán vị 
 ## Backtrack
