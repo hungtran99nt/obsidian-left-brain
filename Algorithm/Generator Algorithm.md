@@ -73,3 +73,29 @@ public static void Try(int i){
 }
 ```
 
+## Generator
+```java
+public static void generate(int n, int[] a) {  
+//      Duyệt ngược từ vị trí n-1, đến khi nó < kề trước nó  
+        int i = n - 1;  
+        while (i > 0 && a[i] > a[i + 1]) i--;  
+        if (i <= 0) {  
+            for (int ii = 1; ii <= n; ii++)  
+                System.out.print(ii + " ");  
+            System.out.println(); //      1. Duyệt hết -> in ra cấu hình đầu tiên  
+        } else {  
+            int k = n;  
+            while (a[k] < a[i]) k--; //      2. Swap nó và phần tử cuối  
+            swapInt(a, k, i);  
+            int l = i + 1, r = n;  
+            while (l < r) {  
+                swapInt(a, l, r);  
+                l++;  
+                r--;  
+            }  
+            for (int ii = 1; ii <= n; ii++)  
+                System.out.print(a[ii] + " ");  
+            System.out.println();  
+        }  
+    }
+```
