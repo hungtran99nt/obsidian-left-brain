@@ -6,4 +6,5 @@
 
 # Sinh tổ hợp
 
-
+Tổ hợp chập k của n
+Duyệt
