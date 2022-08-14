@@ -22,6 +22,22 @@ Tổ hợp chập k của n
 	1. Duyệt ngược từ **j = k --> 1**
 	2. Set **A[j] = n - k + j**
 
+``` java
+public static void generate() {  
+    int i, j;  
+    i = k;  
+    while (i > 0 && a[i] == n - k + i) i--;  
+    if (i > 0) {  
+        a[i] = a[i] + 1;  
+        for (j = i + 1; j <= k; j++) {  
+            a[j] = a[i] + j - i;  
+        }  
+        // print loop 0 -> k, a[i]  
+    } else {  
+        // print loop 0 -> k, i  
+    }  
+}
+```
 # Sinh hoán vị 
 ## Backtrack
 
