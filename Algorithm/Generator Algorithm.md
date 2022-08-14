@@ -12,3 +12,4 @@ Tổ hợp chập k của n
 2. Duyệt xong, nếu i > 0, set **A[i] = A[i] + 1**
 	1. Duyệt xuôi từ **j = i + 1 --> k**
 	2. Set A[j] = A[i] + j - i
+
