@@ -7,4 +7,4 @@
 # Sinh tổ hợp
 
 Tổ hợp chập k của n
-Duyệt
+Duyệt ngược đến khi phần tử A[i] != n - k + i
