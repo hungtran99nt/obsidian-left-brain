@@ -10,3 +10,5 @@ Tổ hợp chập k của n
 **i = k**
 1. Duyệt ngược đến khi phần tử **A[i] != n - k + i**
 2. Duyệt xong, nếu i > 0, set **A[i] = A[i] + 1**
+	1. Duyệt xuôi từ **j = i + 1 --> k**
+	2. Set A
