@@ -13,4 +13,6 @@ Tổ hợp chập k của n
 	1. Duyệt xuôi từ **j = i + 1 --> k**
 	2. Set A[j] = A[i] + j - i
 
-# Sinh hoán vị kế tiếp
+# Sinh hoán vị 
+## Backtrack
+
