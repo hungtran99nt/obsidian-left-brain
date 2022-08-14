@@ -41,20 +41,35 @@ Tổ hợp chập k của n
 
 ``` java
 public static void generate() {  
-    int i, j;  
-    i = k;  
-    while (i > 0 && a[i] == n - k + i) i--;  
-    if (i > 0) {  
-        a[i] = a[i] + 1;  
-        for (j = i + 1; j <= k; j++) {  
-            a[j] = a[i] + j - i;  
+    int i = k, j;  
+    while (i > 0 && a[i] == a[i - 1] + 1) i--;  
+    if (i == 1) {  
+        for (j = k; j >= 1; j--) {  
+            a[j] = n - k + j;  
         }  
-        // print loop 0 -> k, a[i]  
+        isTheLast = true;  
     } else {  
-        // print loop 0 -> k, i  
+        a[i]--;  
+        for (j = i + 1; j <= k; j++) {  
+            a[j] = n - k + j;  
+        }  
     }  
 }
 ```
 # Sinh hoán vị 
 ## Backtrack
+```java
+public static void Try(int i){  
+    int j;  
+    for (j = 1; j<=n-1; j++){  
+        if (check[j] == 0){  
+            check[j] = 1;  
+            a[i] = j;  
+            if (i == n-1) in();  
+            else Try(i+1);  
+            check[j] = 0;  
+        }  
+    }  
+}
+```
 
