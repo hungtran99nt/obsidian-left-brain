@@ -13,6 +13,23 @@ Tổ hợp chập k của n
 	1. Duyệt xuôi từ **j = i + 1 --> k**
 	2. Set A[j] = A[i] + j - i
 
+``` java
+public static void generate() {  
+    int i, j;  
+    i = k;  
+    while (i > 0 && a[i] == n - k + i) i--;  
+    if (i > 0) {  
+        a[i] = a[i] + 1;  
+        for (j = i + 1; j <= k; j++) {  
+            a[j] = a[i] + j - i;  
+        }  
+        // print loop 0 -> k, a[i]  
+    } else {  
+        // print loop 0 -> k, i  
+    }  
+}
+```
+
 # Sinh tổ hợp ngược
 
 Tổ hợp chập k của n
